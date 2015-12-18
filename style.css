@@ -1,0 +1,151 @@
+/*
+
+Theme Name: TaterBoots
+
+Theme URI: http://www.timmtheprogrammer.com
+
+Description:This is a base theme that is utlizing bootstrap to build straight awesomness.
+
+Author: Timm Wilson
+
+Author URI: http://www.timmtheprogrammer.com/about
+
+Version: 1.0
+
+Tags: responsive, white, bootstrap
+
+
+
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+
+License URI: http://creativecommons.org/licenses/by-sa/3.0/
+
+
+
+*/
+
+
+
+@import url('bootstrap-3.3.5-dist/css/bootstrap.css'); 
+
+@import url('bootstrap-3.3.5-dist/css/bootstrap-responsive.css'); 
+
+body { 
+
+     padding-top: 60px; 
+
+     padding-bottom: 40px; 
+
+}
+
+
+
+
+
+
+
+
+
+.header-img {
+
+    padding-top: 10px;
+
+    width: 100%;
+
+    position: relative;
+
+    background: #ADFF2F;
+
+    min-height: 210px;
+
+}
+
+
+
+
+
+body {
+
+
+
+padding-top:0px;
+
+}
+
+
+
+.navbar .navbar-default .navbar-fixed-top {
+
+    border-width: 0px 0px 1px;
+
+    top: 157px;
+
+position:relative;
+
+ 
+
+}
+
+
+
+.top-nap {
+
+
+
+    font-size: 23px;
+
+    padding-top: 16px;
+
+    color: #fff;
+
+    float:right;
+
+
+
+}
+
+
+
+.navbar-default {
+
+    background-color: #36454F;
+
+    /* border-color: #e7e7e7; */
+
+    color: #fff;
+
+    font-size: 17px;
+
+}
+
+
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+
+    color: #fff;
+
+    background-color: transparent;
+
+    font-size: 17px;
+
+}
+
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+
+    color: #fff;
+
+    background-color: #4c96f9;
+
+}
+
+
+
+.navbar-default .navbar-nav>li>a {
+
+    color: #fff;
+
+}
+
+ 
